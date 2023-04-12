@@ -1,4 +1,4 @@
-# CMPE 223 Project 1 - Linkes List Applications
+# CMPE 223 Project 1 - Linked List Applications
 As a homework assignment, we were expected to write some programs which run by using our own implementation of Linked List, Stack and Queue structure in order to complete the tasks. 
 
 ## Question 1 - Part A
